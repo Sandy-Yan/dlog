@@ -177,11 +177,6 @@
             <artifactId>common-base</artifactId>
             <version>1.0.0-SNAPSHOT</version>
         </dependency>
-        <dependency>
-            <groupId>com.github.andy</groupId>
-            <artifactId>common-base</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
-        </dependency>
 
     </dependencies>
 
